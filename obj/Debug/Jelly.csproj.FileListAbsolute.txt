@@ -1,0 +1,11 @@
+C:\Users\tekish\Desktop\Tools\Jelly\bin\Debug\Jelly.exe.config
+C:\Users\tekish\Desktop\Tools\Jelly\bin\Debug\Jelly.exe
+C:\Users\tekish\Desktop\Tools\Jelly\bin\Debug\Jelly.pdb
+C:\Users\tekish\Desktop\Tools\Jelly\obj\Debug\Jelly.csproj.AssemblyReference.cache
+C:\Users\tekish\Desktop\Tools\Jelly\obj\Debug\Jelly.csproj.SuggestedBindingRedirects.cache
+C:\Users\tekish\Desktop\Tools\Jelly\obj\Debug\Jelly.Main.resources
+C:\Users\tekish\Desktop\Tools\Jelly\obj\Debug\Jelly.Properties.Resources.resources
+C:\Users\tekish\Desktop\Tools\Jelly\obj\Debug\Jelly.csproj.GenerateResource.cache
+C:\Users\tekish\Desktop\Tools\Jelly\obj\Debug\Jelly.csproj.CoreCompileInputs.cache
+C:\Users\tekish\Desktop\Tools\Jelly\obj\Debug\Jelly.exe
+C:\Users\tekish\Desktop\Tools\Jelly\obj\Debug\Jelly.pdb
